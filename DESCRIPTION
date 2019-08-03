@@ -16,3 +16,5 @@ Imports:
     htmlwidgets,
     reactR
 RoxygenNote: 6.1.1
+URL: https://github.com/EmilHvitfeldt/emojify
+BugReports: https://github.com/EmilHvitfeldt/emojify/issues
